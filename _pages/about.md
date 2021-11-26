@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Student at University of Patras, [Department of Computer Engineering & Informatics] (https://www.ceid.upatras.gr/en).
+I am currently a PhD Student at University of Patras, [Department of Computer Engineering & Informatics](https://www.ceid.upatras.gr/en).
 
 A data-driven personal website
 ======
