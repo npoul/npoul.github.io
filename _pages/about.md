@@ -12,4 +12,4 @@ I am currently a PhD Student at the [Department of Computer Engineering & Inform
 
 Research
 ======
-My curent research focuses on computer vision, machine learning and their applications to human-computer interaction. Specifically, I am working on eye tracking and gaze estimation with a single webcam. 
+My current research focuses on computer vision, machine learning and their applications to human-computer interaction. Specifically, I am working on eye tracking and gaze estimation with a single webcam. 
