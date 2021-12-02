@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* 2nd Lieutenant at Hellenic Air Force
+* Oct 2013 – Oct 2017: 2nd Lieutenant at Hellenic Air Force
 <br /> Maintenance inspector of F-16 Blk 52+Adv reconnaissance system DB-110 at 116 Combat Wing. 
 
-* Lieutenant at Hellenic Air Force
+* Oct 2017 – Present: Lieutenant at Hellenic Air Force
 <br /> Quality assurance officer of I-Level maintenance of F-16 Blk 52+Adv aircraft at 116 Combat Wing. 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
