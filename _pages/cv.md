@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Education
 ======
 * **B.Sc.** in Electronics & Communications (2013)
