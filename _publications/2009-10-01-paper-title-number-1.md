@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work 2017.
 
 ![Download Pdf](/images/pdf.jpg)
 
-<img src="/images/pdf.jpg" alt="drawing" width="50%"/>
+<img src="/images/pdf.jpg" alt="drawing" width="10"/>
