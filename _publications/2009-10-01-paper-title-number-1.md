@@ -15,3 +15,6 @@ This paper is about the number 1. The number 2 is left for future work 2017.
 <a href="http://npoul.github.io/files/ICIP2017.pdf">
 <img src="/images/pdf.jpg" alt="drawing" width="25"/>
 </a>
+
+
+<a class="a-pdf icononly" target="_blank" title="PDF" href="http://npoul.github.io/files/ICIP2017.pdf">PDF</a>
