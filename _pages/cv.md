@@ -20,13 +20,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2nd Lieutenant at Hellenic Air Force
+<br /> Maintenance inspector of F-16 Blk 52+Adv reconnaissance system DB-110 at 116 Combat Wing. 
 
-* Fall 2015: Research Assistant
-  * Github University
+* Lieutenant at Hellenic Air Force
+<br /> Quality assurance officer of I-Level maintenance of F-16 Blk 52+Adv aircraft at 116 Combat Wing. 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
