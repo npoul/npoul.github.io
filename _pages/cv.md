@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.SC. in Electronics & Communications (2013)
+* B.Sc. in Electronics & Communications (2013)
 <br /> Hellenic Airforce Academy
 * M.Sc. in Signal Processing and Communications (2017)
 <br /> Computer Engineering & Informatics Department, University of Patras
