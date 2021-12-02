@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics & Communications, Hellenic Airforce Academy, 2013
+* M.S. in Signal Processing and Communications, Computer Engineering & Informatics Department, University of Patras, 2017
+* Ph.D in Computer Vision, Computer Engineering & Informatics Department, University of Patras, 2022 (expected)
 
 Work experience
 ======
