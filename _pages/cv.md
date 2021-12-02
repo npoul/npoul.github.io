@@ -29,7 +29,7 @@ Work experience
   
 Awards
 ======
-* Best Paper Award at CVPR Workshop [Gaze 2021](https://gazeworkshop.github.io/2021/), for the paper: [PupilTAN: A Few-Shot Adversarial Pupil Localizer](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/Poulopoulos_PupilTAN_A_Few-Shot_Adversarial_Pupil_Localizer_CVPRW_2021_paper.pdf)
+* [PupilTAN: A Few-Shot Adversarial Pupil Localizer](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/Poulopoulos_PupilTAN_A_Few-Shot_Adversarial_Pupil_Localizer_CVPRW_2021_paper.pdf): Best Paper Award at CVPR Workshop [Gaze 2021](https://gazeworkshop.github.io/2021/)
 
 Publications
 ======
