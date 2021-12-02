@@ -31,10 +31,3 @@ Awards
 ======
 * **Best Paper Award** at CVPR Workshop [Gaze 2021](https://gazeworkshop.github.io/2021/): *PupilTAN: A Few-Shot Adversarial Pupil Localizer*
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
