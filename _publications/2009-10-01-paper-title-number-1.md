@@ -6,11 +6,6 @@ date: 2017
 venue: 'International Conference on Image Processing (ICIP)'
 ---
 
-This paper is about the number 1. The number 2 is left for future work 2017.
-
-[Download paper here](http://npoul.github.io/files/ICIP2017.pdf)
-
-![Download Pdf](/images/pdf-icon_2.png)
 
 <a href="http://npoul.github.io/files/ICIP2017.pdf">
 <img src="/images/pdf.jpg" alt="drawing" width="25"/>
