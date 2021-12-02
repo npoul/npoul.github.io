@@ -1,13 +1,12 @@
 ---
 permalink: /
 author_profile: true
+excerpt: "About me"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Biography
-======
 I am currently a PhD Student at the [Department of Computer Engineering & Informatics](https://www.ceid.upatras.gr/en) at University of Patras. I received my M.Sc. degree from the same Department in 2017 and my B.Sc. degree from the Hellenic Airforce Academy in 2013. Since 2013, I have been working for the Hellenic Airforce as an Electronics Engineer.  
 
 Research
