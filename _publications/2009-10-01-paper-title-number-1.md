@@ -10,4 +10,6 @@ This paper is about the number 1. The number 2 is left for future work 2017.
 
 [Download paper here](http://npoul.github.io/files/ICIP2017.pdf)
 
-![Download Pdf](/images/pdf.jpg =15x20)
+![Download Pdf](/images/pdf.jpg)
+
+<img src="/images/pdf.jpg" alt="drawing" width="50%"/>
