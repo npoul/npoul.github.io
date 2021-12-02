@@ -32,6 +32,9 @@ Awards
 * **Best Paper Award** at CVPR Workshop [Gaze 2021](https://gazeworkshop.github.io/2021/)
 <br /> N. Poulopoulos, E. Z. Psarakis and D. Kosmopoulos, "[PupilTAN: A Few-Shot Adversarial Pupil Localizer](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/Poulopoulos_PupilTAN_A_Few-Shot_Adversarial_Pupil_Localizer_CVPRW_2021_paper.pdf)", IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2021
 
+* **Best Paper Award** at CVPR Workshop [Gaze 2021](https://gazeworkshop.github.io/2021/)
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
