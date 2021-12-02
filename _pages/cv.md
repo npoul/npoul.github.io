@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.SC. in Electronics & Communications, 2013
+* (2013) B.SC. in Electronics & Communications
 <br /> Hellenic Airforce Academy
-* M.Sc. in Signal Processing and Communications, 2017
+* (2017) M.Sc. in Signal Processing and Communications
 <br /> Computer Engineering & Informatics Department, University of Patras
-* Ph.D in Computer Vision, 2022 (expected)
+* 2022 (expected) Ph.D in Computer Vision
 <br /> Computer Engineering & Informatics Department, University of Patras
 
 Work experience
