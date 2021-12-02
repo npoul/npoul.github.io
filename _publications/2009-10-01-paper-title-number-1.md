@@ -10,4 +10,3 @@ This paper is about the number 1. The number 2 is left for future work 2017.
 
 [Download paper here](http://npoul.github.io/files/ICIP2017.pdf)
 
-Recommended citation: Your Name, You. (2017). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
