@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img align="left" src="/images/CVPRW.png" alt="drawing" width="250"> <h3> PupilTAN: A Few-Shot Adversarial Pupil Localizer  &nbsp; <a href="http://npoul.github.io/files/CVPRW.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+<img align="left" src="/images/CVPRW.png" alt="drawing" width="250"> <h3> PupilTAN: A Few-Shot Adversarial Pupil Localizer  &nbsp; <a href="http://npoul.github.io/files/CVPRW2021.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis and Dimitrios Kosmopoulos
 <br /> International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2021
 
