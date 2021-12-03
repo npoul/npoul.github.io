@@ -26,7 +26,7 @@ Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 </pre>
 
 ---
-<p> <img align="left"style="padding-right:40px" src="/images/ICIP.png" alt="drawing" width="280"> </p> <h3> A New High Precision Eye Center Localization Technique  &nbsp; <a href="http://npoul.github.io/files/ICIP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/></a> </h3>
+<p> <img align="left" style="padding-right:40px" src="/images/ICIP.png" alt="drawing" width="280"> </p> <h3> A New High Precision Eye Center Localization Technique  &nbsp; <a href="http://npoul.github.io/files/ICIP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/></a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 <br /> International Conference on Image Processing (ICIP), 2017
 <pre>
