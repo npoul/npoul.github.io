@@ -18,14 +18,14 @@ Nikolaos Poulopoulos, Emmanoul Z. Psarakis and Dimitrios Kosmopoulos
 <img align="left" src="/images/award.jpg" alt="drawing" width="20"/> Best Paper Award!
 
 ---
-<p> <img align="left" style="padding-right:20px" src="/images/RAAD.png" alt="drawing" width="250"> </p> <h3> Real Time Eye Localization and Tracking  &nbsp; <a href="http://npoul.github.io/files/RAAD2018.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+<p> <img align="left" style="padding-right:20px; padding-bottom: 20px;" src="/images/RAAD.png" alt="drawing" width="250"> </p> <h3> Real Time Eye Localization and Tracking  &nbsp; <a href="http://npoul.github.io/files/RAAD2018.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 <br /> International Conference on Robotics in Alpe-Adria-Danube Region (RAAD), 2018
 <pre>
 </pre>
 
 ---
-<p> <img align="left" style="padding-right:40px" src="/images/ICIP.png" alt="drawing" width="250"> </p> <h3> A New High Precision Eye Center Localization Technique  &nbsp; <a href="http://npoul.github.io/files/ICIP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/></a> </h3>
+<p> <img align="left" style="padding-right:20px; padding-bottom: 20px;" src="/images/ICIP.png" alt="drawing" width="250"> </p> <h3> A New High Precision Eye Center Localization Technique  &nbsp; <a href="http://npoul.github.io/files/ICIP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/></a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 <br /> International Conference on Image Processing (ICIP), 2017
 <pre>
