@@ -11,9 +11,8 @@ author_profile: true
 
 </pre>
 
-<p> <img align="left" src="/images/CVPRW.png" alt="drawing" width="280"> </p> <h3> &ensp; PupilTAN: A Few-Shot Adversarial Pupil Localizer  
-&nbsp; <a href="http://npoul.github.io/files/CVPRW2021.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
-&ensp; Nikolaos Poulopoulos, Emmanoul Z. Psarakis and Dimitrios Kosmopoulos
+<p> <img align="left" style="padding-right:20px; padding-bottom: 20px;" src="/images/CVPRW.png" alt="drawing" width="280"> </p> <h3> PupilTAN: A Few-Shot Adversarial Pupil Localizer <a href="http://npoul.github.io/files/CVPRW2021.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+Nikolaos Poulopoulos, Emmanoul Z. Psarakis and Dimitrios Kosmopoulos
 <br /> &ensp; IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2021
 
 <img align="left" src="/images/award.jpg" alt="drawing" width="20"/> Best Paper Award!
@@ -33,7 +32,7 @@ Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 </pre>
 
 ---
-<p> <img align="left" src="/images/DSP.png" alt="drawing" width="280"> </p> <h3> A Blobs Detection Algorithm Based on a Simplified Form
+<p> <img align="left" style="padding-right:20px; padding-bottom: 20px;" src="/images/DSP.png" alt="drawing" width="280"> </p> <h3> A Blobs Detection Algorithm Based on a Simplified Form
 of the Fast Radial Symmetry Transform  &nbsp; <a href="http://npoul.github.io/files/DSP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 <br /> International Conference on Digital Signal Processing (DSP), 2017
