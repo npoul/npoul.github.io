@@ -19,9 +19,9 @@ author_profile: true
 <img align="left" src="/images/award.jpg" alt="drawing" width="20"/> Best Paper Award!
 
 ---
-<p> <img align="left" src="/images/RAAD.png" alt="drawing" width="280"> </p> <p> <h3> Real Time Eye Localization and Tracking  &nbsp; <a href="http://npoul.github.io/files/RAAD2018.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+<p> <img align="left" padding-right: 10px src="/images/RAAD.png" alt="drawing" width="280"> </p> <h3> Real Time Eye Localization and Tracking  &nbsp; <a href="http://npoul.github.io/files/RAAD2018.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
-<br /> International Conference on Robotics in Alpe-Adria-Danube Region (RAAD), 2018 </p>
+<br /> International Conference on Robotics in Alpe-Adria-Danube Region (RAAD), 2018
 <pre>
 </pre>
 
