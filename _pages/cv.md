@@ -17,7 +17,6 @@ Education
 * **B.Sc.** in Electronics & Communications (2013)
 <br /> Hellenic Airforce Academy
 
----
 
 Work experience
 ======
@@ -27,7 +26,6 @@ Work experience
 * Oct 2013 – Oct 2017: **2<sup>nd</sup> Lieutenant** at Hellenic Air Force
 <br /> Maintenance inspector of F-16 Blk 52+Adv reconnaissance system DB-110 at 116 Combat Wing
 
----
 
 Awards
 ======
