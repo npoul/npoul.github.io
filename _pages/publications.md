@@ -29,6 +29,6 @@ Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 
 ---
 <p> <img align="left" style="padding-right:20px; padding-top:20px;" src="/images/DSP.png" alt="drawing" width="250" height="132"> </p> <h3> A Blobs Detection Algorithm Based on a Simplified Form
-of the Fast Radial Symmetry Transform  &nbsp; <a href="http://npoul.github.io/files/DSP2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+of the Fast Radial Symmetry Transform  &nbsp; <a href="http://npoul.github.io/files/DSP_2017.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis
 <br /> International Conference on Digital Signal Processing (DSP), 2017
