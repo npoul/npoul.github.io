@@ -12,9 +12,10 @@ author_profile: true
 <p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/CVPRW.png" alt="drawing" width="250" height="191"> </p> <h3> A Real‑Time High Precision Eye Center Localizer &nbsp; <a href="http://npoul.github.io/files/RTIP2022.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos and Emmanoul Z. Psarakis
 <br /> Journal of Real-Time Image Processing, 2022  
+<pre>
+</pre>
 
 ---
-
 <p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/CVPRW.png" alt="drawing" width="250" height="191"> </p> <h3> PupilTAN: A Few-Shot Adversarial Pupil Localizer &nbsp; <a href="http://npoul.github.io/files/CVPRW2021.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos, Emmanoul Z. Psarakis and Dimitrios Kosmopoulos
 <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2021  
