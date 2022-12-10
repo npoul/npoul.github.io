@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* Oct 2017 – Present: **Captain** at Hellenic Air Force
+* Oct 2022 – Present: **Captain** at Hellenic Air Force
 <br /> Quality Assurance Supervisor of I-Level Maintenance of F-16 Blk 52+Adv Aircraft at 116 Combat Wing
 
-* Oct 2017 – Present: **Lieutenant** at Hellenic Air Force
+* Oct 2017 – Oct 2022: **Lieutenant** at Hellenic Air Force
 <br /> Quality Assurance Officer of I-Level Maintenance of F-16 Blk 52+Adv Aircraft at 116 Combat Wing
 
 * Oct 2013 – Oct 2017: **2<sup>nd</sup> Lieutenant** at Hellenic Air Force
