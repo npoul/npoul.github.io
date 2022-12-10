@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D** in Computer Vision (2022 expected)
+* **Ph.D** in Computer Vision (2023 expected)
 <br /> Department of Computer Engineering & Informatics, University of Patras
 * **M.Sc.** in Signal Processing and Communications (2017)
 <br /> Department of Computer Engineering & Informatics, University of Patras
@@ -20,11 +20,14 @@ Education
 
 Work experience
 ======
+* Oct 2017 – Present: **Captain** at Hellenic Air Force
+<br /> Quality Assurance Supervisor of I-Level Maintenance of F-16 Blk 52+Adv Aircraft at 116 Combat Wing
+
 * Oct 2017 – Present: **Lieutenant** at Hellenic Air Force
-<br /> Quality assurance officer of I-Level maintenance of F-16 Blk 52+Adv aircraft at 116 Combat Wing
+<br /> Quality Assurance Officer of I-Level Maintenance of F-16 Blk 52+Adv Aircraft at 116 Combat Wing
 
 * Oct 2013 – Oct 2017: **2<sup>nd</sup> Lieutenant** at Hellenic Air Force
-<br /> Maintenance inspector of F-16 Blk 52+Adv reconnaissance system DB-110 at 116 Combat Wing
+<br /> Maintenance Inspector of F-16 Blk 52+Adv Reconnaissance System DB-110 at 116 Combat Wing
 
 
 Awards
