@@ -12,6 +12,8 @@ Nikolaos Poulopoulos and Emmanoul Z. Psarakis
 <br /> International Conference on Computer Vision Theory and Applications (VISAPP), 2023  
 <pre>
 </pre>
+<pre>
+</pre>
 
 ---
 <p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/VISAPP2022.png" alt="drawing" width="250" height="90"> </p> <h3> DeepPupil Net: Deep Residual Network for Precise Pupil Center Localization &nbsp; <a href="http://npoul.github.io/files/VISAPP2022.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> <a href="https://github.com/npoul/DeepPupilNet"> <img src="/images/Code.png" alt="drawing" width="23" height="26"/> </a> </h3>
