@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nikolaos Poulopoulos"
 title_separator          : "-"
 name                     : &name "Nikolaos Poulopoulos"
-description              : &description "PhD Student"
+description              : &description "PhD in Computer Vision"
 url                      : https://npoul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "npoul.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikos"
   avatar           : "profile.png"
-  bio              : "PhD Student at University of Patras"
+  bio              : "PhD in Computer Vision"
   location         : "Patras/Greece"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/nikolaos-poulopoulos-166554140/
   orcid            : #"https://orcid.org/0000-0002-8341-9805"
   pinterest        :
   soundcloud       :
