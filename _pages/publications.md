@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/BMVC2026.png" alt="drawing" width="250" height="125"> </p> <h3> CAR-CVGL: Conditional height-Aware BEV Representation for Cross-View Geo-Localization &nbsp; <a href="http://npoul.github.io/files/BMVC2026.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/BMVC2026.jpg" alt="drawing" width="250" height="125"> </p> <h3> CAR-CVGL: Conditional height-Aware BEV Representation for Cross-View Geo-Localization  
 Nikolaos Poulopoulos,  Alexandros Gkillas, Christos Anagnostopoulos, Aris Lalos, Huu Le, Duong V. Nguyen
 <br /> British Machine Vision Conference (BMVC), 2026  
 <pre>
