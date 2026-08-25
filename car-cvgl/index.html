@@ -271,9 +271,6 @@
               feature alignment implicitly and often discard height information
               during bird's-eye-view (BEV) construction, limiting robustness and
               introducing ambiguity.
-            </p>
-
-            <p>
               To overcome these limitations, we propose a transformer-based
               framework that reformulates cross-view geo-localization as an
               explicit conditional alignment problem in BEV space. Our method
@@ -281,16 +278,10 @@
               where satellite BEV features condition the selection of the most
               relevant height-wise ground features prior to BEV pooling,
               preserving informative 3D structure and reducing ambiguity.
-            </p>
-
-            <p>
               In addition, we propose a spatial cross-attention module that
               directly couples ground and satellite BEV features through direct
               cross-view feature exchange, enabling more robust alignment under
               challenging conditions.
-            </p>
-
-            <p>
               Experiments on FordAV and KITTI benchmarks indicate consistent
               improvements over state-of-the-art methods. In particular, our
               approach achieves superior performance under cross-area evaluation,
@@ -298,9 +289,6 @@
               regions and appearance variations, while reducing localization
               error by <strong>33.8%</strong> compared to the previous state of
               the art on FordAV.
-            </p>
-
-            <p>
               Furthermore, we introduce a lightweight variant, CAR-Lite, which
               achieves <strong>8.55 FPS</strong> while maintaining competitive
               localization accuracy.
@@ -328,13 +316,8 @@
 
       <pre><code>@inproceedings{poulopoulos2026carcvgl,
   title     = {CAR-CVGL: Conditional Height-Aware BEV Representation for Cross-View Geo-Localization},
-  author    = {Poulopoulos, Nikolaos and
-               Gkillas, Alexandros and
-               Anagnostopoulos, Christos and
-               Lalos, Aris and
-               Le, Huu and
-               Nguyen, Duong V.},
-  booktitle = {British Machine Vision Conference},
+  author    = {Poulopoulos, Nikolaos and Gkillas, Alexandros and Anagnostopoulos, Christos and Lalos, Aris and Le, Huu and Nguyen, Duong V.},
+  booktitle = {British Machine Vision Conference (BMVC)},
   year      = {2026}
 }</code></pre>
 
