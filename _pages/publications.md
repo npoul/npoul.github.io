@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/VISAPP2023.png" alt="drawing" width="250" height="125"> </p> <h3> CAR-CVGL: Conditional height-Aware BEV Representation for Cross-View Geo-Localization &nbsp; <a href="http://npoul.github.io/files/BMVC2026.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
-Nikolaos Poulopoulos and Emmanoul Z. Psarakis
+<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/BMVC2026.png" alt="drawing" width="250" height="125"> </p> <h3> CAR-CVGL: Conditional height-Aware BEV Representation for Cross-View Geo-Localization &nbsp; <a href="http://npoul.github.io/files/BMVC2026.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+Nikolaos Poulopoulos,  Alexandros Gkillas, Christos Anagnostopoulos, Aris Lalos, Huu Le, Duong V. Nguyen
 <br /> British Machine Vision Conference (BMVC), 2026  
 <pre>
 </pre>
@@ -16,7 +16,7 @@ Nikolaos Poulopoulos and Emmanoul Z. Psarakis
 </pre>
 
 ---
-<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/VISAPP2023.pdf.png" alt="drawing" width="250" height="145"> </p> <h3> Few-shot Gaze Estimation via Gaze Transfer &nbsp; <a href="http://npoul.github.io/files/VISAPP2023.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
+<p> <img align="left" style="padding-right:20px; padding-top:30px; padding-bottom:20px;" src="/images/VISAPP2023.png" alt="drawing" width="250" height="145"> </p> <h3> Few-shot Gaze Estimation via Gaze Transfer &nbsp; <a href="http://npoul.github.io/files/VISAPP2023.pdf"> <img src="/images/pdf-icon_3.png" alt="drawing" width="25"/> </a> </h3>
 Nikolaos Poulopoulos and Emmanoul Z. Psarakis
 <br /> International Conference on Computer Vision Theory and Applications (VISAPP), 2023  
 <pre>
